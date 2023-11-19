@@ -1,35 +1,13 @@
-The Adventures of Sherlock Holmes
-
-by Arthur Conan Doyle
-
-
-Contents
-
-   I.     A Scandal in Bohemia
-   II.    The Red-Headed League
-   III.   A Case of Identity
-   IV.    The Boscombe Valley Mystery
-   V.     The Five Orange Pips
-   VI.    The Man with the Twisted Lip
-   VII.   The Adventure of the Blue Carbuncle
-   VIII.  The Adventure of the Speckled Band
-   IX.    The Adventure of the Engineer’s Thumb
-   X.     The Adventure of the Noble Bachelor
-   XI.    The Adventure of the Beryl Coronet
-   XII.   The Adventure of the Copper Beeches
-
-
-
 
 I. A SCANDAL IN BOHEMIA
 
 
 I.
 
-To Sherlock Holmes she is always _the_ woman. I have seldom heard him
+To Holmes she is always _the_ woman. I have seldom heard him
 mention her under any other name. In his eyes she eclipses and
 predominates the whole of her sex. It was not that he felt any emotion
-akin to love for Irene Adler. All emotions, and that one particularly,
+akin to love for Adler. All emotions, and that one particularly,
 were abhorrent to his cold, precise but admirably balanced mind. He
 was, I take it, the most perfect reasoning and observing machine that
 the world has seen, but as a lover he would have placed himself in a
@@ -327,7 +305,7 @@ from Prague for the purpose of consulting you.”
 
 “The facts are briefly these: Some five years ago, during a lengthy
 visit to Warsaw, I made the acquaintance of the well-known adventuress,
-Irene Adler. The name is no doubt familiar to you.”
+Adler. The name is no doubt familiar to you.”
 
 “Kindly look her up in my index, Doctor,” murmured Holmes without
 opening his eyes. For many years he had adopted a system of docketing
@@ -422,7 +400,7 @@ Scandinavia. You may know the strict principles of her family. She is
 herself the very soul of delicacy. A shadow of a doubt as to my conduct
 would bring the matter to an end.”
 
-“And Irene Adler?”
+“And Adler?”
 
 “Threatens to send them the photograph. And she will do it. I know that
 she will do it. You do not know her, but she has a soul of steel. She
@@ -524,7 +502,7 @@ was obliged to lie back, limp and helpless, in the chair.
 my morning, or what I ended by doing.”
 
 “I can’t imagine. I suppose that you have been watching the habits, and
-perhaps the house, of Miss Irene Adler.”
+perhaps the house, of Miss Adler.”
 
 “Quite so; but the sequel was rather unusual. I will tell you, however.
 I left the house a little after eight o’clock this morning in the
@@ -549,7 +527,7 @@ nothing of half a dozen other people in the neighbourhood in whom I was
 not in the least interested, but whose biographies I was compelled to
 listen to.”
 
-“And what of Irene Adler?” I asked.
+“And what of Adler?” I asked.
 
 “Oh, she has turned all the men’s heads down in that part. She is the
 daintiest thing under a bonnet on this planet. So say the
@@ -632,7 +610,7 @@ me, and Godfrey Norton came running as hard as he could towards me.
 “I was half-dragged up to the altar, and before I knew where I was I
 found myself mumbling responses which were whispered in my ear, and
 vouching for things of which I knew nothing, and generally assisting in
-the secure tying up of Irene Adler, spinster, to Godfrey Norton,
+the secure tying up of Adler, spinster, to Godfrey Norton,
 bachelor. It was all done in an instant, and there was the gentleman
 thanking me on the one side and the lady on the other, while the
 clergyman beamed on me in front. It was the most preposterous position
@@ -733,7 +711,7 @@ He disappeared into his bedroom and returned in a few minutes in the
 character of an amiable and simple-minded Nonconformist clergyman. His
 broad black hat, his baggy trousers, his white tie, his sympathetic
 smile, and general look of peering and benevolent curiosity were such
-as Mr. John Hare alone could have equalled. It was not merely that
+as Mr. Watson alone could have equalled. It was not merely that
 Holmes changed his costume. His expression, his manner, his very soul
 seemed to vary with every fresh part that he assumed. The stage lost a
 fine actor, even as science lost an acute reasoner, when he became a
@@ -744,7 +722,7 @@ wanted ten minutes to the hour when we found ourselves in Serpentine
 Avenue. It was already dusk, and the lamps were just being lighted as
 we paced up and down in front of Briony Lodge, waiting for the coming
 of its occupant. The house was just such as I had pictured it from
-Sherlock Holmes’ succinct description, but the locality appeared to be
+Holmes’ succinct description, but the locality appeared to be
 less private than I expected. On the contrary, for a small street in a
 quiet neighbourhood, it was remarkably animated. There was a group of
 shabbily dressed men smoking and laughing in a corner, a
@@ -931,7 +909,7 @@ delay.”
 We had reached Baker Street and had stopped at the door. He was
 searching his pockets for the key when someone passing said:
 
-“Good-night, Mister Sherlock Holmes.”
+“Good-night, Mister Holmes.”
 
 There were several people on the pavement at the time, but the greeting
 appeared to come from a slim youth in an ulster who had hurried by.
@@ -946,7 +924,7 @@ I slept at Baker Street that night, and we were engaged upon our toast
 and coffee in the morning when the King of Bohemia rushed into the
 room.
 
-“You have really got it!” he cried, grasping Sherlock Holmes by either
+“You have really got it!” he cried, grasping Holmes by either
 shoulder and looking eagerly into his face.
 
 “Not yet.”
@@ -964,7 +942,7 @@ shoulder and looking eagerly into his face.
 “Then that will simplify matters.” We descended and started off once
 more for Briony Lodge.
 
-“Irene Adler is married,” remarked Holmes.
+“Adler is married,” remarked Holmes.
 
 “Married! When?”
 
@@ -993,7 +971,7 @@ The door of Briony Lodge was open, and an elderly woman stood upon the
 steps. She watched us with a sardonic eye as we stepped from the
 brougham.
 
-“Mr. Sherlock Holmes, I believe?” said she.
+“Mr. Holmes, I believe?” said she.
 
 “I am Mr. Holmes,” answered my companion, looking at her with a
 questioning and rather startled gaze.
@@ -1002,7 +980,7 @@ questioning and rather startled gaze.
 this morning with her husband by the 5:15 train from Charing Cross for
 the Continent.”
 
-“What!” Sherlock Holmes staggered back, white with chagrin and
+“What!” Holmes staggered back, white with chagrin and
 surprise. “Do you mean that she has left England?”
 
 “Never to return.”
@@ -1015,12 +993,12 @@ scattered about in every direction, with dismantled shelves and open
 drawers, as if the lady had hurriedly ransacked them before her flight.
 Holmes rushed at the bell-pull, tore back a small sliding shutter, and,
 plunging in his hand, pulled out a photograph and a letter. The
-photograph was of Irene Adler herself in evening dress, the letter was
-superscribed to “Sherlock Holmes, Esq. To be left till called for.” My
+photograph was of Adler herself in evening dress, the letter was
+superscribed to “Holmes, Esq. To be left till called for.” My
 friend tore it open, and we all three read it together. It was dated at
 midnight of the preceding night and ran in this way:
 
-    “MY DEAR MR. SHERLOCK HOLMES, You really did it very well. You took
+    “MY DEAR MR. Holmes, You really did it very well. You took
     me in completely. Until after the alarm of fire, I had not a
     suspicion. But then, when I found how I had betrayed myself, I
     began to think. I had been warned against you months ago. I had
@@ -1035,7 +1013,7 @@ midnight of the preceding night and ran in this way:
     down just as you departed.
 
     “Well, I followed you to your door, and so made sure that I was
-    really an object of interest to the celebrated Mr. Sherlock Holmes.
+    really an object of interest to the celebrated Mr. Holmes.
     Then I, rather imprudently, wished you good-night, and started for
     the Temple to see my husband.
 
@@ -1047,7 +1025,7 @@ midnight of the preceding night and ran in this way:
     wronged. I keep it only to safeguard myself, and to preserve a
     weapon which will always secure me from any steps which he might
     take in the future. I leave a photograph which he might care to
-    possess; and I remain, dear Mr. Sherlock Holmes,
+    possess; and I remain, dear Mr. Holmes,
 
 
     “Very truly yours,
@@ -1092,9 +1070,9 @@ turning away without observing the hand which the King had stretched
 out to him, he set off in my company for his chambers.
 
 And that was how a great scandal threatened to affect the kingdom of
-Bohemia, and how the best plans of Mr. Sherlock Holmes were beaten by a
+Bohemia, and how the best plans of Mr. Holmes were beaten by a
 woman’s wit. He used to make merry over the cleverness of women, but I
-have not heard him do it of late. And when he speaks of Irene Adler, or
+have not heard him do it of late. And when he speaks of Adler, or
 when he refers to her photograph, it is always under the honourable
 title of _the_ woman.
 
@@ -1104,7 +1082,7 @@ title of _the_ woman.
 II. THE RED-HEADED LEAGUE
 
 
- I had called upon my friend, Mr. Sherlock Holmes, one day in the
+ I had called upon my friend, Mr. Holmes, one day in the
  autumn of last year and found him in deep conversation with a very
  stout, florid-faced, elderly gentleman with fiery red hair. With an
  apology for my intrusion, I was about to withdraw when Holmes pulled
@@ -1139,7 +1117,7 @@ so many of my own little adventures.”
 observed.
 
 “You will remember that I remarked the other day, just before we went
-into the very simple problem presented by Miss Mary Sutherland, that
+into the very simple problem presented by Sutherland, that
 for strange effects and extraordinary combinations we must go to life
 itself, which is always far more daring than any effort of the
 imagination.”
@@ -1149,7 +1127,7 @@ imagination.”
 “You did, Doctor, but none the less you must come round to my view, for
 otherwise I shall keep on piling fact upon fact on you until your
 reason breaks down under them and acknowledges me to be right. Now, Mr.
-Jabez Wilson here has been good enough to call upon me this morning,
+Wilson here has been good enough to call upon me this morning,
 and to begin a narrative which promises to be one of the most singular
 which I have listened to for some time. You have heard me remark that
 the strangest and most unique things are very often connected not with
@@ -1186,13 +1164,13 @@ Altogether, look as I would, there was nothing remarkable about the man
 save his blazing red head, and the expression of extreme chagrin and
 discontent upon his features.
 
-Sherlock Holmes’ quick eye took in my occupation, and he shook his head
+Holmes’ quick eye took in my occupation, and he shook his head
 with a smile as he noticed my questioning glances. “Beyond the obvious
 facts that he has at some time done manual labour, that he takes snuff,
 that he is a Freemason, that he has been in China, and that he has done
 a considerable amount of writing lately, I can deduce nothing else.”
 
-Mr. Jabez Wilson started up in his chair, with his forefinger upon the
+Mr. Wilson started up in his chair, with his forefinger upon the
 paper, but his eyes upon my companion.
 
 “How, in the name of good-fortune, did you know all that, Mr. Holmes?”
@@ -1224,7 +1202,7 @@ trick of staining the fishes’ scales of a delicate pink is quite
 peculiar to China. When, in addition, I see a Chinese coin hanging from
 your watch-chain, the matter becomes even more simple.”
 
-Mr. Jabez Wilson laughed heavily. “Well, I never!” said he. “I thought
+Mr. Wilson laughed heavily. “Well, I never!” said he. “I thought
 at first that you had done something clever, but I see that there was
 nothing in it after all.”
 
@@ -1262,15 +1240,15 @@ and the date.”
 
 “Very good. Now, Mr. Wilson?”
 
-“Well, it is just as I have been telling you, Mr. Sherlock Holmes,”
-said Jabez Wilson, mopping his forehead; “I have a small pawnbroker’s
+“Well, it is just as I have been telling you, Mr. Holmes,”
+said Wilson, mopping his forehead; “I have a small pawnbroker’s
 business at Coburg Square, near the City. It’s not a very large affair,
 and of late years it has not done more than just give me a living. I
 used to be able to keep two assistants, but now I only keep one; and I
 would have a job to pay him but that he is willing to come for half
 wages so as to learn the business.”
 
-“What is the name of this obliging youth?” asked Sherlock Holmes.
+“What is the name of this obliging youth?” asked Holmes.
 
 “His name is Vincent Spaulding, and he’s not such a youth, either. It’s
 hard to say his age. I should not wish a smarter assistant, Mr. Holmes;
@@ -1398,7 +1376,7 @@ matter, after all. However, when our turn came the little man was much
 more favourable to me than to any of the others, and he closed the door
 as we entered, so that he might have a private word with us.
 
-“‘This is Mr. Jabez Wilson,’ said my assistant, ‘and he is willing to
+“‘This is Mr. Wilson,’ said my assistant, ‘and he is willing to
 fill a vacancy in the League.’
 
 “‘And he is admirably suited for it,’ the other answered. ‘He has every
@@ -1486,7 +1464,7 @@ to-morrow?’
 
 “‘Certainly,’ I answered.
 
-“‘Then, good-bye, Mr. Jabez Wilson, and let me congratulate you once
+“‘Then, good-bye, Mr. Wilson, and let me congratulate you once
 more on the important position which you have been fortunate enough to
 gain.’ He bowed me out of the room and I went home with my assistant,
 hardly knowing what to say or do, I was so pleased at my own good
@@ -1541,7 +1519,7 @@ note-paper. It read in this fashion:
 “THE RED-HEADED LEAGUE IS DISSOLVED. October 9, 1890.”
 
 
-Sherlock Holmes and I surveyed this curt announcement and the rueful
+Holmes and I surveyed this curt announcement and the rueful
 face behind it, until the comical side of the affair so completely
 overtopped every other consideration that we both burst out into a roar
 of laughter.
@@ -1597,7 +1575,7 @@ remarkable one, and I shall be happy to look into it. From what you
 have told me I think that it is possible that graver issues hang from
 it than might at first sight appear.”
 
-“Grave enough!” said Mr. Jabez Wilson. “Why, I have lost four pound a
+“Grave enough!” said Mr. Wilson. “Why, I have lost four pound a
 week.”
 
 “As far as you are personally concerned,” remarked Holmes, “I do not
@@ -1701,7 +1679,7 @@ place, where four lines of dingy two-storied brick houses looked out
 into a small railed-in enclosure, where a lawn of weedy grass and a few
 clumps of faded laurel bushes made a hard fight against a smoke-laden
 and uncongenial atmosphere. Three gilt balls and a brown board with
-“JABEZ WILSON” in white letters, upon a corner house, announced the
+“Wilson” in white letters, upon a corner house, announced the
 place where our red-headed client carried on his business. Sherlock
 Holmes stopped in front of it with his head on one side and looked it
 all over, with his eyes shining brightly between puckered lids. Then he
@@ -1860,7 +1838,7 @@ deference. “Still, I confess that I miss my rubber. It is the first
 Saturday night for seven-and-twenty years that I have not had my
 rubber.”
 
-“I think you will find,” said Sherlock Holmes, “that you will play for
+“I think you will find,” said Holmes, “that you will play for
 a higher stake to-night than you have ever done yet, and that the play
 will be more exciting. For you, Mr. Merryweather, the stake will be
 some £ 30,000; and for you, Jones, it will be the man upon whom you
@@ -1882,7 +1860,7 @@ you that he is at the head of his profession. It is past ten, however,
 and quite time that we started. If you two will take the first hansom,
 Watson and I will follow in the second.”
 
-Sherlock Holmes was not very communicative during the long drive and
+Holmes was not very communicative during the long drive and
 lay back in the cab humming the tunes which he had heard in the
 afternoon. We rattled through an endless labyrinth of gas-lit streets
 until we emerged into Farrington Street.
@@ -2016,7 +1994,7 @@ himself, with a pale face and a shock of very red hair.
 “It’s all clear,” he whispered. “Have you the chisel and the bags?
 Great Scott! Jump, Archie, jump, and I’ll swing for it!”
 
-Sherlock Holmes had sprung out and seized the intruder by the collar.
+Holmes had sprung out and seized the intruder by the collar.
 The other dived down the hole, and I heard the sound of rending cloth
 as Jones clutched at his skirts. The light flashed upon the barrel of a
 revolver, but Holmes’ hunting crop came down on the man’s wrist, and
@@ -2070,7 +2048,7 @@ fantastic business of the advertisement of the League, and the copying
 of the _Encyclopædia_, must be to get this not over-bright pawnbroker
 out of the way for a number of hours every day. It was a curious way of
 managing it, but, really, it would be difficult to suggest a better.
-The method was no doubt suggested to Clay’s ingenious mind by the
+The method was no doubt suggested to John Clay’s ingenious mind by the
 colour of his accomplice’s hair. The £ 4 a week was a lure which must
 draw him, and what was it to them, who were playing for thousands? They
 put in the advertisement, one rogue has the temporary office, the other
@@ -2113,7 +2091,7 @@ chairman of the bank directors, with the result that you have seen.”
 asked.
 
 “Well, when they closed their League offices that was a sign that they
-cared no longer about Mr. Jabez Wilson’s presence in other words, that
+cared no longer about Mr. Wilson’s presence in other words, that
 they had completed their tunnel. But it was essential that they should
 use it soon, as it might be discovered, or the bullion might be
 removed. Saturday would suit them better than any other day, as it
@@ -2140,7 +2118,7 @@ as Gustave Flaubert wrote to George Sand.”
 III. A CASE OF IDENTITY
 
 
-“My dear fellow,” said Sherlock Holmes as we sat on either side of the
+“My dear fellow,” said Holmes as we sat on either side of the
 fire in his lodgings at Baker Street, “life is infinitely stranger than
 anything which the mind of man could invent. We would not dare to
 conceive the things which are really mere commonplaces of existence. If
@@ -2194,7 +2172,7 @@ ways and simple life that I could not help commenting upon it.
 
 “Ah,” said he, “I forgot that I had not seen you for some weeks. It is
 a little souvenir from the King of Bohemia in return for my assistance
-in the case of the Irene Adler papers.”
+in the case of the Adler papers.”
 
 “And the ring?” I asked, glancing at a remarkable brilliant which
 sparkled upon his finger.
@@ -2241,9 +2219,9 @@ much angry as perplexed, or grieved. But here she comes in person to
 resolve our doubts.”
 
 As he spoke there was a tap at the door, and the boy in buttons entered
-to announce Miss Mary Sutherland, while the lady herself loomed behind
+to announce Sutherland, while the lady herself loomed behind
 his small black figure like a full-sailed merchant-man behind a tiny
-pilot boat. Sherlock Holmes welcomed her with the easy courtesy for
+pilot boat. Holmes welcomed her with the easy courtesy for
 which he was remarkable, and, having closed the door and bowed her into
 an armchair, he looked her over in the minute and yet abstracted
 fashion which was peculiar to him.
@@ -2297,7 +2275,7 @@ traveller in wines. They got £ 4700 for the goodwill and interest,
 which wasn’t near as much as father could have got if he had been
 alive.”
 
-I had expected to see Sherlock Holmes impatient under this rambling and
+I had expected to see Holmes impatient under this rambling and
 inconsequential narrative, but, on the contrary, he had listened with
 the greatest concentration of attention.
 
@@ -2529,7 +2507,7 @@ noble in the simple faith of our visitor which compelled our respect.
 She laid her little bundle of papers upon the table and went her way,
 with a promise to come again whenever she might be summoned.
 
-Sherlock Holmes sat silent for a few minutes with his fingertips still
+Holmes sat silent for a few minutes with his fingertips still
 pressed together, his legs stretched out in front of him, and his gaze
 directed upward to the ceiling. Then he took down from the rack the old
 and oily clay pipe, which was to him as a counsellor, and, having lit
@@ -2561,7 +2539,7 @@ the right forefinger. Her boots I didn’t observe. She had small round,
 hanging gold earrings, and a general air of being fairly well-to-do in
 a vulgar, comfortable, easy-going way.”
 
-Sherlock Holmes clapped his hands softly together and chuckled.
+Holmes clapped his hands softly together and chuckled.
 
 “’Pon my word, Watson, you are coming along wonderfully. You have
 really done very well indeed. It is true that you have missed
@@ -2647,7 +2625,7 @@ reasoning and extraordinary energy in action that I felt that he must
 have some solid grounds for the assured and easy demeanour with which
 he treated the singular mystery which he had been called upon to
 fathom. Once only had I known him to fail, in the case of the King of
-Bohemia and of the Irene Adler photograph; but when I looked back to
+Bohemia and of the Adler photograph; but when I looked back to
 the weird business of the Sign of Four, and the extraordinary
 circumstances connected with the Study in Scarlet, I felt that it would
 be a strange tangle indeed which he could not unravel.
@@ -2655,14 +2633,14 @@ be a strange tangle indeed which he could not unravel.
 I left him then, still puffing at his black clay pipe, with the
 conviction that when I came again on the next evening I would find that
 he held in his hands all the clues which would lead up to the identity
-of the disappearing bridegroom of Miss Mary Sutherland.
+of the disappearing bridegroom of Sutherland.
 
 A professional case of great gravity was engaging my own attention at
 the time, and the whole of next day I was busy at the bedside of the
 sufferer. It was not until close upon six o’clock that I found myself
 free and was able to spring into a hansom and drive to Baker Street,
 half afraid that I might be too late to assist at the _dénouement_ of
-the little mystery. I found Sherlock Holmes alone, however, half
+the little mystery. I found Holmes alone, however, half
 asleep, with his long, thin form curled up in the recesses of his
 armchair. A formidable array of bottles and test-tubes, with the
 pungent cleanly smell of hydrochloric acid, told me that he had spent
@@ -2892,7 +2870,7 @@ IV. THE BOSCOMBE VALLEY MYSTERY
 
 
 We were seated at breakfast one morning, my wife and I, when the maid
-brought in a telegram. It was from Sherlock Holmes and ran in this way:
+brought in a telegram. It was from Holmes and ran in this way:
 
 “Have you a couple of days to spare? Have just been wired for from the
 west of England in connection with Boscombe Valley tragedy. Shall be
@@ -2907,7 +2885,7 @@ present.”
 
 “Oh, Anstruther would do your work for you. You have been looking a
 little pale lately. I think that the change would do you good, and you
-are always so interested in Mr. Sherlock Holmes’ cases.”
+are always so interested in Mr. Holmes’ cases.”
 
 “I should be ungrateful if I were not, seeing what I gained through one
 of them,” I answered. “But if I am to go, I must pack at once, for I
@@ -2916,7 +2894,7 @@ have only half an hour.”
 My experience of camp life in Afghanistan had at least had the effect
 of making me a prompt and ready traveller. My wants were few and
 simple, so that in less than the time stated I was in a cab with my
-valise, rattling away to Paddington Station. Sherlock Holmes was pacing
+valise, rattling away to Paddington Station. Holmes was pacing
 up and down the platform, his tall, gaunt figure made even gaunter and
 taller by his long grey travelling-cloak and close-fitting cloth cap.
 
@@ -2958,22 +2936,22 @@ understand it, in a very few words.
 Herefordshire. The largest landed proprietor in that part is a Mr. John
 Turner, who made his money in Australia and returned some years ago to
 the old country. One of the farms which he held, that of Hatherley, was
-let to Mr. Charles McCarthy, who was also an ex-Australian. The men had
+let to Mr. Charles, who was also an ex-Australian. The men had
 known each other in the colonies, so that it was not unnatural that
 when they came to settle down they should do so as near each other as
-possible. Turner was apparently the richer man, so McCarthy became his
+possible. Turner was apparently the richer man, so Charles became his
 tenant but still remained, it seems, upon terms of perfect equality, as
-they were frequently together. McCarthy had one son, a lad of eighteen,
+they were frequently together. Charles had one son, a lad of eighteen,
 and Turner had an only daughter of the same age, but neither of them
 had wives living. They appear to have avoided the society of the
 neighbouring English families and to have led retired lives, though
-both the McCarthys were fond of sport and were frequently seen at the
-race-meetings of the neighbourhood. McCarthy kept two servants a man
+both the Charless were fond of sport and were frequently seen at the
+race-meetings of the neighbourhood. Charles kept two servants a man
 and a girl. Turner had a considerable household, some half-dozen at the
 least. That is as much as I have been able to gather about the
 families. Now for the facts.
 
-“On June 3rd, that is, on Monday last, McCarthy left his house at
+“On June 3rd, that is, on Monday last, Charles left his house at
 Hatherley about three in the afternoon and walked down to the Boscombe
 Pool, which is a small lake formed by the spreading out of the stream
 which runs down the Boscombe Valley. He had been out with his
@@ -2985,27 +2963,27 @@ From that appointment he never came back alive.
 and two people saw him as he passed over this ground. One was an old
 woman, whose name is not mentioned, and the other was William Crowder,
 a game-keeper in the employ of Mr. Turner. Both these witnesses depose
-that Mr. McCarthy was walking alone. The game-keeper adds that within a
-few minutes of his seeing Mr. McCarthy pass he had seen his son, Mr.
-James McCarthy, going the same way with a gun under his arm. To the
+that Mr. Charles was walking alone. The game-keeper adds that within a
+few minutes of his seeing Mr. Charles pass he had seen his son, Mr.
+James, going the same way with a gun under his arm. To the
 best of his belief, the father was actually in sight at the time, and
 the son was following him. He thought no more of the matter until he
 heard in the evening of the tragedy that had occurred.
 
-“The two McCarthys were seen after the time when William Crowder, the
+“Charles and James were seen after the time when William Crowder, the
 game-keeper, lost sight of them. The Boscombe Pool is thickly wooded
 round, with just a fringe of grass and of reeds round the edge. A girl
 of fourteen, Patience Moran, who is the daughter of the lodge-keeper of
 the Boscombe Valley estate, was in one of the woods picking flowers.
 She states that while she was there she saw, at the border of the wood
-and close by the lake, Mr. McCarthy and his son, and that they appeared
-to be having a violent quarrel. She heard Mr. McCarthy the elder using
+and close by the lake, Mr. Charles and his son, and that they appeared
+to be having a violent quarrel. She heard Mr. Charles the elder using
 very strong language to his son, and she saw the latter raise up his
 hand as if to strike his father. She was so frightened by their
 violence that she ran away and told her mother when she reached home
-that she had left the two McCarthys quarrelling near Boscombe Pool, and
+that she had left the Charles and James quarrelling near Boscombe Pool, and
 that she was afraid that they were going to fight. She had hardly said
-the words when young Mr. McCarthy came running up to the lodge to say
+the words when young Mr. James came running up to the lodge to say
 that he had found his father dead in the wood, and to ask for the help
 of the lodge-keeper. He was much excited, without either his gun or his
 hat, and his right hand and sleeve were observed to be stained with
@@ -3117,7 +3095,7 @@ the unfortunate young man had given his own statement of what had
 occurred. I settled myself down in the corner of the carriage and read
 it very carefully. It ran in this way:
 
-“Mr. James McCarthy, the only son of the deceased, was then called and
+“Mr. James , the only son of the deceased, was then called and
 gave evidence as follows: ‘I had been away from home for three days at
 Bristol, and had only just returned upon the morning of last Monday,
 the 3rd. My father was absent from home at the time of my arrival, and
@@ -3222,7 +3200,7 @@ it?’
 “This concluded the examination of the witness.”
 
 “I see,” said I as I glanced down the column, “that the coroner in his
-concluding remarks was rather severe upon young McCarthy. He calls
+concluding remarks was rather severe upon young James. He calls
 attention, and with reason, to the discrepancy about his father having
 signalled to him before seeing him, also to his refusal to give details
 of his conversation with his father, and his singular account of his
@@ -3280,7 +3258,7 @@ lovely young women that I have ever seen in my life. Her violet eyes
 shining, her lips parted, a pink flush upon her cheeks, all thought of
 her natural reserve lost in her overpowering excitement and concern.
 
-“Oh, Mr. Sherlock Holmes!” she cried, glancing from one to the other of
+“Oh, Mr. Holmes!” she cried, glancing from one to the other of
 us, and finally, with a woman’s quick intuition, fastening upon my
 companion, “I am so glad that you have come. I have driven down to tell
 you so. I know that James didn’t do it. I know it, and I want you to
@@ -3289,7 +3267,7 @@ that point. We have known each other since we were little children, and
 I know his faults as no one else does; but he is too tender-hearted to
 hurt a fly. Such a charge is absurd to anyone who really knows him.”
 
-“I hope we may clear him, Miss Turner,” said Sherlock Holmes. “You may
+“I hope we may clear him, Miss Turner,” said Holmes. “You may
 rely upon my doing all that I can.”
 
 “But you have read the evidence. You have formed some conclusion? Do
@@ -3312,7 +3290,7 @@ it.”
 “In what way?” asked Holmes.
 
 “It is no time for me to hide anything. James and his father had many
-disagreements about me. Mr. McCarthy was very anxious that there should
+disagreements about me. Mr. Charles was very anxious that there should
 be a marriage between us. James and I have always loved each other as
 brother and sister; but of course he is young and has seen very little
 of life yet, and and well, he naturally did not wish to do anything
@@ -3321,7 +3299,7 @@ them.”
 
 “And your father?” asked Holmes. “Was he in favour of such a union?”
 
-“No, he was averse to it also. No one but Mr. McCarthy was in favour of
+“No, he was averse to it also. No one but Mr. James was in favour of
 it.” A quick blush passed over her fresh young face as Holmes shot one
 of his keen, questioning glances at her.
 
@@ -3335,7 +3313,7 @@ call to-morrow?”
 “Yes, have you not heard? Poor father has never been strong for years
 back, but this has broken him down completely. He has taken to his bed,
 and Dr. Willows says that he is a wreck and that his nervous system is
-shattered. Mr. McCarthy was the only man alive who had known dad in the
+shattered. Mr. James was the only man alive who had known dad in the
 old days in Victoria.”
 
 “Ha! In Victoria! That is important.”
@@ -3364,7 +3342,7 @@ wheels of her carriage rattle off down the street.
 minutes’ silence. “Why should you raise up hopes which you are bound to
 disappoint? I am not over-tender of heart, but I call it cruel.”
 
-“I think that I see my way to clearing James McCarthy,” said Holmes.
+“I think that I see my way to clearing James,” said Holmes.
 “Have you an order to see him in prison?”
 
 “Yes, but only for you and me.”
@@ -3405,24 +3383,24 @@ that mean? It could not be delirium. A man dying from a sudden blow
 does not commonly become delirious. No, it was more likely to be an
 attempt to explain how he met his fate. But what could it indicate? I
 cudgelled my brains to find some possible explanation. And then the
-incident of the grey cloth seen by young McCarthy. If that were true
+incident of the grey cloth seen by James. If that were true
 the murderer must have dropped some part of his dress, presumably his
 overcoat, in his flight, and must have had the hardihood to return and
 to carry it away at the instant when the son was kneeling with his back
 turned not a dozen paces off. What a tissue of mysteries and
 improbabilities the whole thing was! I did not wonder at Lestrade’s
-opinion, and yet I had so much faith in Sherlock Holmes’ insight that I
+opinion, and yet I had so much faith in Holmes’ insight that I
 could not lose hope as long as every fresh fact seemed to strengthen
-his conviction of young McCarthy’s innocence.
+his conviction of James’s innocence.
 
-It was late before Sherlock Holmes returned. He came back alone, for
+It was late before Holmes returned. He came back alone, for
 Lestrade was staying in lodgings in the town.
 
 “The glass still keeps very high,” he remarked as he sat down. “It is
 of importance that it should not rain before we are able to go over the
 ground. On the other hand, a man should be at his very best and keenest
 for such nice work as that, and I did not wish to do it when fagged by
-a long journey. I have seen young McCarthy.”
+a long journey. I have seen James.”
 
 “And what did you learn from him?”
 
@@ -3458,7 +3436,7 @@ come out of evil, however, for the barmaid, finding from the papers
 that he is in serious trouble and likely to be hanged, has thrown him
 over utterly and has written to him to say that she has a husband
 already in the Bermuda Dockyard, so that there is really no tie between
-them. I think that that bit of news has consoled young McCarthy for all
+them. I think that that bit of news has consoled James for all
 that he has suffered.”
 
 “But if he is innocent, who has done it?”
@@ -3483,7 +3461,7 @@ that Mr. Turner, of the Hall, is so ill that his life is despaired of.”
 
 “About sixty; but his constitution has been shattered by his life
 abroad, and he has been in failing health for some time. This business
-has had a very bad effect upon him. He was an old friend of McCarthy’s,
+has had a very bad effect upon him. He was an old friend of Charles’s,
 and, I may add, a great benefactor to him, for I have learned that he
 gave him Hatherley Farm rent free.”
 
@@ -3493,7 +3471,7 @@ gave him Hatherley Farm rent free.”
 here speaks of his kindness to him.”
 
 “Really! Does it not strike you as a little singular that this
-McCarthy, who appears to have had little of his own, and to have been
+Charles, who appears to have had little of his own, and to have been
 under such obligations to Turner, should still talk of marrying his son
 to Turner’s daughter, who is, presumably, heiress to the estate, and
 that in such a very cocksure manner, as if it were merely a case of a
@@ -3513,7 +3491,7 @@ get hold of,” replied Lestrade with some warmth.
 
 “And that is ”
 
-“That McCarthy senior met his death from McCarthy junior and that all
+“That Charles senior met his death from James junior and that all
 theories to the contrary are the merest moonshine.”
 
 “Well, moonshine is a brighter thing than fog,” said Holmes, laughing.
@@ -3531,7 +3509,7 @@ then had. Having measured these very carefully from seven or eight
 different points, Holmes desired to be led to the court-yard, from
 which we all followed the winding track which led to Boscombe Pool.
 
-Sherlock Holmes was transformed when he was hot upon such a scent as
+Holmes was transformed when he was hot upon such a scent as
 this. Men who had only known the quiet thinker and logician of Baker
 Street would have failed to recognise him. His face flushed and
 darkened. His brows were drawn into two hard black lines, while his
@@ -3580,7 +3558,7 @@ it. Here is where the party with the lodge-keeper came, and they have
 covered all tracks for six or eight feet round the body. But here are
 three separate tracks of the same feet.” He drew out a lens and lay
 down upon his waterproof to have a better view, talking all the time
-rather to himself than to us. “These are young McCarthy’s feet. Twice
+rather to himself than to us. “These are James’s feet. Twice
 he was walking, and once he ran swiftly, so that the soles are deeply
 marked and the heels hardly visible. That bears out his story. He ran
 when he saw his father on the ground. Then here are the father’s feet
@@ -3692,12 +3670,12 @@ far as he knew, was in Bristol. It was mere chance that he was within
 earshot. The ‘Cooee!’ was meant to attract the attention of whoever it
 was that he had the appointment with. But ‘Cooee’ is a distinctly
 Australian cry, and one which is used between Australians. There is a
-strong presumption that the person whom McCarthy expected to meet him
+strong presumption that the person whom Charles expected to meet him
 at Boscombe Pool was someone who had been in Australia.”
 
 “What of the rat, then?”
 
-Sherlock Holmes took a folded paper from his pocket and flattened it
+Holmes took a folded paper from his pocket and flattened it
 out on the table. “This is a map of the Colony of Victoria,” he said.
 “I wired to Bristol for it last night.” He put his hand over part of
 the map. “What do you read?”
@@ -3772,7 +3750,7 @@ cannot escape, and you have saved an innocent human life as truly as if
 you had cut the cord which was hanging him. I see the direction in
 which all this points. The culprit is ”
 
-“Mr. John Turner,” cried the hotel waiter, opening the door of our
+“Mr. Turner,” cried the hotel waiter, opening the door of our
 sitting-room, and ushering in a visitor.
 
 The man who entered was a strange and impressive figure. His slow,
@@ -3815,7 +3793,7 @@ arrested.”
 
 “I am no official agent. I understand that it was your daughter who
 required my presence here, and I am acting in her interests. Young
-McCarthy must be got off, however.”
+James must be got off, however.”
 
 “I am a dying man,” said old Turner. “I have had diabetes for years. My
 doctor says it is a question whether I shall live a month. Yet I would
@@ -3825,7 +3803,7 @@ Holmes rose and sat down at the table with his pen in his hand and a
 bundle of paper before him. “Just tell us the truth,” he said. “I shall
 jot down the facts. You will sign it, and Watson here can witness it.
 Then I could produce your confession at the last extremity to save
-young McCarthy. I promise you that I shall not use it unless it is
+James. I promise you that I shall not use it unless it is
 absolutely needed.”
 
 “It’s as well,” said the old man; “it’s a question whether I shall live
@@ -3888,7 +3866,7 @@ to be in weak health, it seemed a fine stroke to him that his lad
 should step into the whole property. But there I was firm. I would not
 have his cursed stock mixed with mine; not that I had any dislike to
 the lad, but his blood was in him, and that was enough. I stood firm.
-McCarthy threatened. I braved him to do his worst. We were to meet at
+James threatened. I braved him to do his worst. We were to meet at
 the pool midway between our houses to talk it over.
 
 “When I went down there I found him talking with his son, so I smoked a
@@ -3918,7 +3896,7 @@ never be exposed to such a temptation.”
 
 “In view of your health, nothing. You are yourself aware that you will
 soon have to answer for your deed at a higher court than the Assizes. I
-will keep your confession, and if McCarthy is condemned I shall be
+will keep your confession, and if James is condemned I shall be
 forced to use it. If not, it shall never be seen by mortal eye; and
 your secret, whether you be alive or dead, shall be safe with us.”
 
@@ -3930,9 +3908,9 @@ stumbled slowly from the room.
 “God help us!” said Holmes after a long silence. “Why does fate play
 such tricks with poor, helpless worms? I never hear of such a case as
 this that I do not think of Baxter’s words, and say, ‘There, but for
-the grace of God, goes Sherlock Holmes.’”
+the grace of God, goes Holmes.’”
 
-James McCarthy was acquitted at the Assizes on the strength of a number
+James was acquitted at the Assizes on the strength of a number
 of objections which had been drawn out by Holmes and submitted to the
 defending counsel. Old Turner lived for seven months after our
 interview, but he is now dead; and there is every prospect that the son
@@ -3946,7 +3924,7 @@ black cloud which rests upon their past.
 V. THE FIVE ORANGE PIPS
 
 
-When I glance over my notes and records of the Sherlock Holmes cases
+When I glance over my notes and records of the Holmes cases
 between the years ’82 and ’90, I am faced by so many which present
 strange and interesting features that it is no easy matter to know
 which to choose and which to leave. Some, however, have already gained
@@ -3971,7 +3949,7 @@ club in the lower vault of a furniture warehouse, of the facts
 connected with the loss of the British barque _Sophy Anderson_, of the
 singular adventures of the Grice Patersons in the island of Uffa, and
 finally of the Camberwell poisoning case. In the latter, as may be
-remembered, Sherlock Holmes was able, by winding up the dead man’s
+remembered, Holmes was able, by winding up the dead man’s
 watch, to prove that it had been wound up two hours before, and that
 therefore the deceased had gone to bed within that time a deduction
 which was of the greatest importance in clearing up the case. All these
@@ -3987,7 +3965,7 @@ instant from the routine of life and to recognise the presence of those
 great elemental forces which shriek at mankind through the bars of his
 civilisation, like untamed beasts in a cage. As evening drew in, the
 storm grew higher and louder, and the wind cried and sobbed like a
-child in the chimney. Sherlock Holmes sat moodily at one side of the
+child in the chimney. Holmes sat moodily at one side of the
 fireplace cross-indexing his records of crime, while I at the other was
 deep in one of Clark Russell’s fine sea-stories until the howl of the
 gale from without seemed to blend with the text, and the splash of the
@@ -4007,7 +3985,7 @@ visitors.”
 such a day and at such an hour. But I take it that it is more likely to
 be some crony of the landlady’s.”
 
-Sherlock Holmes was wrong in his conjecture, however, for there came a
+Holmes was wrong in his conjecture, however, for there came a
 step in the passage and a tapping at the door. He stretched out his
 long arm to turn the lamp away from himself and towards the vacant
 chair upon which a newcomer must sit.
@@ -4081,7 +4059,7 @@ those details which seem to me to be most important.”
 The young man pulled his chair up and pushed his wet feet out towards
 the blaze.
 
-“My name,” said he, “is John Openshaw, but my own affairs have, as far
+“My name,” said he, “is Openshaw, but my own affairs have, as far
 as I can understand, little to do with this awful business. It is a
 hereditary matter; so in order to give you an idea of the facts, I must
 go back to the commencement of the affair.
@@ -4151,7 +4129,7 @@ an old rusty key, which must have belonged to the attic, in one hand,
 and a small brass box, like a cashbox, in the other.
 
 “‘They may do what they like, but I’ll checkmate them still,’ said he
-with an oath. ‘Tell Mary that I shall want a fire in my room to-day,
+with an oath. ‘Tell Sutherlandthat I shall want a fire in my room to-day,
 and send down to Fordham, the Horsham lawyer.’
 
 “I did as he ordered, and when the lawyer arrived I was asked to step
@@ -4320,7 +4298,7 @@ snake is writhing towards it. I seem to be in the grasp of some
 resistless, inexorable evil, which no foresight and no precautions can
 guard against.”
 
-“Tut! tut!” cried Sherlock Holmes. “You must act, man, or you are lost.
+“Tut! tut!” cried Holmes. “You must act, man, or you are lost.
 Nothing but energy can save you. This is no time for despair.”
 
 “I have seen the police.”
@@ -4354,7 +4332,7 @@ about my troubles and was advised by him to come to you.”
 before this. You have no further evidence, I suppose, than that which
 you have placed before us no suggestive detail which might help us?”
 
-“There is one thing,” said John Openshaw. He rummaged in his coat
+“There is one thing,” said Openshaw. He rummaged in his coat
 pocket, and, drawing out a piece of discoloured, blue-tinted paper, he
 laid it out upon the table. “I have some remembrance,” said he, “that
 on the day when my uncle burned the papers I observed that the small,
@@ -4434,7 +4412,7 @@ strange, wild story seemed to have come to us from amid the mad
 elements blown in upon us like a sheet of sea-weed in a gale and now to
 have been reabsorbed by them once more.
 
-Sherlock Holmes sat for some time in silence, with his head sunk
+Holmes sat for some time in silence, with his head sunk
 forward and his eyes bent upon the red glow of the fire. Then he lit
 his pipe, and leaning back in his chair he watched the blue smoke-rings
 as they chased each other up to the ceiling.
@@ -4444,7 +4422,7 @@ had none more fantastic than this.”
 
 “Save, perhaps, the Sign of Four.”
 
-“Well, yes. Save, perhaps, that. And yet this John Openshaw seems to me
+“Well, yes. Save, perhaps, that. And yet this Openshaw seems to me
 to be walking amid even greater perils than did the Sholtos.”
 
 “But have you,” I asked, “formed any definite conception as to what
@@ -4455,7 +4433,7 @@ these perils are?”
 “Then what are they? Who is this K. K. K., and why does he pursue this
 unhappy family?”
 
-Sherlock Holmes closed his eyes and placed his elbows upon the arms of
+Holmes closed his eyes and placed his elbows upon the arms of
 his chair, with his finger-tips together. “The ideal reasoner,” he
 remarked, “would, when he had once been shown a single fact in all its
 bearings, deduce from it not only all the chain of events which led up
@@ -4556,7 +4534,7 @@ the initials of an individual and becomes the badge of a society.”
 
 “But of what society?”
 
-“Have you never ” said Sherlock Holmes, bending forward and sinking his
+“Have you never ” said Holmes, bending forward and sinking his
 voice “have you never heard of the Ku Klux Klan?”
 
 “I never have.”
@@ -4611,7 +4589,7 @@ ways of our fellow men.”
 
 It had cleared in the morning, and the sun was shining with a subdued
 brightness through the dim veil which hangs over the great city.
-Sherlock Holmes was already at breakfast when I came down.
+Holmes was already at breakfast when I came down.
 
 “You will excuse me for not waiting for you,” said he; “I have, I
 foresee, a very busy day before me in looking into this case of young
@@ -4646,7 +4624,7 @@ so that, in spite of the help of several passers-by, it was quite
 impossible to effect a rescue. The alarm, however, was given, and, by
 the aid of the water-police, the body was eventually recovered. It
 proved to be that of a young gentleman whose name, as it appears from
-an envelope which was found in his pocket, was John Openshaw, and whose
+an envelope which was found in his pocket, was Openshaw, and whose
 residence is near Horsham. It is conjectured that he may have been
 hurrying down to catch the last train from Waterloo Station, and that
 in his haste and the extreme darkness he missed his path and walked
@@ -4679,7 +4657,7 @@ the long run. I am going out now!”
 the flies, but not before.”
 
 All day I was engaged in my professional work, and it was late in the
-evening before I returned to Baker Street. Sherlock Holmes had not come
+evening before I returned to Baker Street. Holmes had not come
 back yet. It was nearly ten o’clock before he entered, looking pale and
 worn. He walked up to the sideboard, and tearing a piece from the loaf
 he devoured it voraciously, washing it down with a long draught of
@@ -4767,7 +4745,7 @@ of Savannah that these three gentlemen are badly wanted here upon a
 charge of murder.”
 
 There is ever a flaw, however, in the best laid of human plans, and the
-murderers of John Openshaw were never to receive the orange pips which
+murderers of Openshaw were never to receive the orange pips which
 would show them that another, as cunning and as resolute as themselves,
 was upon their track. Very long and very severe were the equinoctial
 gales that year. We waited long for news of the _Lone Star_ of
@@ -4932,7 +4910,7 @@ my self-control to prevent me from breaking out into a cry of
 astonishment. He had turned his back so that none could see him but I.
 His form had filled out, his wrinkles were gone, the dull eyes had
 regained their fire, and there, sitting by the fire and grinning at my
-surprise, was none other than Sherlock Holmes. He made a slight motion
+surprise, was none other than Holmes. He made a slight motion
 to me to approach him, and instantly, as he turned his face half round
 to the company once more, subsided into a doddering, loose-lipped
 senility.
@@ -4951,7 +4929,7 @@ also to send a note by the cabman to your wife to say that you have
 thrown in your lot with me. If you will wait outside, I shall be with
 you in five minutes.”
 
-It was difficult to refuse any of Sherlock Holmes’ requests, for they
+It was difficult to refuse any of Holmes’ requests, for they
 were always so exceedingly definite, and put forward with such a quiet
 air of mastery. I felt, however, that when Whitney was once confined in
 the cab my mission was practically accomplished; and for the rest, I
@@ -4960,7 +4938,7 @@ one of those singular adventures which were the normal condition of his
 existence. In a few minutes I had written my note, paid Whitney’s bill,
 led him out to the cab, and seen him driven through the darkness. In a
 very short time a decrepit figure had emerged from the opium den, and I
-was walking down the street with Sherlock Holmes. For two streets he
+was walking down the street with Holmes. For two streets he
 shuffled along with a bent back and an uncertain foot. Then, glancing
 quickly round, he straightened himself out and burst into a hearty fit
 of laughter.
@@ -5261,7 +5239,7 @@ disappearance are all as far from a solution as ever. I confess that I
 cannot recall any case within my experience which looked at the first
 glance so simple and yet which presented such difficulties.”
 
-While Sherlock Holmes had been detailing this singular series of
+While Holmes had been detailing this singular series of
 events, we had been whirling through the outskirts of the great town
 until the last straggling houses had been left behind, and we rattled
 along with a country hedge upon either side of us. Just as he finished,
@@ -5323,7 +5301,7 @@ can very well see that no apology is needed. If I can be of any
 assistance, either to you or to my friend here, I shall be indeed
 happy.”
 
-“Now, Mr. Sherlock Holmes,” said the lady as we entered a well-lit
+“Now, Mr. Holmes,” said the lady as we entered a well-lit
 dining-room, upon the table of which a cold supper had been laid out,
 “I should very much like to ask you one or two plain questions, to
 which I beg that you will give a plain answer.”
@@ -5337,7 +5315,7 @@ fainting. I simply wish to hear your real, real opinion.”
 
 “In your heart of hearts, do you think that Neville is alive?”
 
-Sherlock Holmes seemed to be embarrassed by the question. “Frankly,
+Holmes seemed to be embarrassed by the question. “Frankly,
 now!” she repeated, standing upon the rug and looking keenly down at
 him as he leaned back in a basket-chair.
 
@@ -5358,7 +5336,7 @@ him as he leaned back in a basket-chair.
 “Then perhaps, Mr. Holmes, you will be good enough to explain how it is
 that I have received a letter from him to-day.”
 
-Sherlock Holmes sprang out of his chair as if he had been galvanised.
+Holmes sprang out of his chair as if he had been galvanised.
 
 “What!” he roared.
 
@@ -5507,7 +5485,7 @@ then retire, for we may have a very busy day to-morrow.”
 
 A large and comfortable double-bedded room had been placed at our
 disposal, and I was quickly between the sheets, for I was weary after
-my night of adventure. Sherlock Holmes was a man, however, who, when he
+my night of adventure. Holmes was a man, however, who, when he
 had an unsolved problem upon his mind, would go for days, and even for
 a week, without rest, turning it over, rearranging his facts, looking
 at it from every point of view until he had either fathomed it or
@@ -5573,7 +5551,7 @@ In town the earliest risers were just beginning to look sleepily from
 their windows as we drove through the streets of the Surrey side.
 Passing down the Waterloo Bridge Road we crossed over the river, and
 dashing up Wellington Street wheeled sharply to the right and found
-ourselves in Bow Street. Sherlock Holmes was well known to the force,
+ourselves in Bow Street. Holmes was well known to the force,
 and the two constables at the door saluted him. One of them held the
 horse’s head while the other led us in.
 
@@ -5694,7 +5672,7 @@ been committed, and that, therefore, I am illegally detained.”
 help me, I would not have them ashamed of their father. My God! What an
 exposure! What can I do?”
 
-Sherlock Holmes sat down beside him on the couch and patted him kindly
+Holmes sat down beside him on the couch and patted him kindly
 on the shoulder.
 
 “If you leave it to a court of law to clear the matter up,” said he,
@@ -5825,7 +5803,7 @@ Street we shall just be in time for breakfast.”
 VII. THE ADVENTURE OF THE BLUE CARBUNCLE
 
 
-I had called upon my friend Sherlock Holmes upon the second morning
+I had called upon my friend Holmes upon the second morning
 after Christmas, with the intention of wishing him the compliments of
 the season. He was lounging upon the sofa in a purple dressing-gown, a
 pipe-rack within his reach upon the right, and a pile of crumpled
@@ -5850,7 +5828,7 @@ it looks, this thing has some deadly story linked on to it that it is
 the clue which will guide you in the solution of some mystery and the
 punishment of some crime.”
 
-“No, no. No crime,” said Sherlock Holmes, laughing. “Only one of those
+“No, no. No crime,” said Holmes, laughing. “Only one of those
 whimsical little incidents which will happen when you have four million
 human beings all jostling each other within the space of a few square
 miles. Amid the action and reaction of so dense a swarm of humanity,
@@ -5862,8 +5840,8 @@ such.”
 “So much so,” I remarked, “that of the last six cases which I have
 added to my notes, three have been entirely free of any legal crime.”
 
-“Precisely. You allude to my attempt to recover the Irene Adler papers,
-to the singular case of Miss Mary Sutherland, and to the adventure of
+“Precisely. You allude to my attempt to recover the Adler papers,
+to the singular case of Sutherland, and to the adventure of
 the man with the twisted lip. Well, I have no doubt that this small
 matter will fall into the same innocent category. You know Peterson,
 the commissionaire?”
@@ -5999,7 +5977,7 @@ has assuredly gone down in the world.”
 “Well, that is clear enough, certainly. But how about the foresight and
 the moral retrogression?”
 
-Sherlock Holmes laughed. “Here is the foresight,” said he putting his
+Holmes laughed. “Here is the foresight,” said he putting his
 finger upon the little disc and loop of the hat-securer. “They are
 never sold upon hats. If this man ordered one, it is a sign of a
 certain amount of foresight, since he went out of his way to take this
@@ -6050,7 +6028,7 @@ a gas-jet. Are you satisfied?”
 just now, there has been no crime committed, and no harm done save the
 loss of a goose, all this seems to be rather a waste of energy.”
 
-Sherlock Holmes had opened his mouth to reply, when the door flew open,
+Holmes had opened his mouth to reply, when the door flew open,
 and Peterson, the commissionaire, rushed into the apartment with
 flushed cheeks and the face of a man who is dazed with astonishment.
 
@@ -6066,7 +6044,7 @@ scintillating blue stone, rather smaller than a bean in size, but of
 such purity and radiance that it twinkled like an electric point in the
 dark hollow of his hand.
 
-Sherlock Holmes sat up with a whistle. “By Jove, Peterson!” said he,
+Holmes sat up with a whistle. “By Jove, Peterson!” said he,
 “this is treasure trove indeed. I suppose you know what you have got?”
 
 “A diamond, sir? A precious stone. It cuts into glass as though it were
@@ -6268,7 +6246,7 @@ what use the _disjecta membra_ of my late acquaintance are going to be
 to me. No, sir, I think that, with your permission, I will confine my
 attentions to the excellent bird which I perceive upon the sideboard.”
 
-Sherlock Holmes glanced sharply across at me with a slight shrug of his
+Holmes glanced sharply across at me with a slight shrug of his
 shoulders.
 
 “There is your hat, then, and there your bird,” said he. “By the way,
@@ -6450,7 +6428,7 @@ Holmes turned to the page indicated. “Here you are, ‘Mrs. Oakshott,
 
 “What have you to say now?”
 
-Sherlock Holmes looked deeply chagrined. He drew a sovereign from his
+Holmes looked deeply chagrined. He drew a sovereign from his
 pocket and threw it down upon the slab, turning away with the air of a
 man whose disgust is too deep for words. A few yards off he stopped
 under a lamp-post and laughed in the hearty, noiseless fashion which
@@ -6505,7 +6483,7 @@ think that I could be of assistance to you.”
 
 “You? Who are you? How could you know anything of the matter?”
 
-“My name is Sherlock Holmes. It is my business to know what other
+“My name is Holmes. It is my business to know what other
 people don’t know.”
 
 “But you can know nothing of this?”
@@ -6519,7 +6497,7 @@ by him to his club, of which Mr. Henry Baker is a member.”
 little fellow with outstretched hands and quivering fingers. “I can
 hardly explain to you how interested I am in this matter.”
 
-Sherlock Holmes hailed a four-wheeler which was passing. “In that case
+Holmes hailed a four-wheeler which was passing. “In that case
 we had better discuss it in a cosy room rather than in this wind-swept
 market-place,” said he. “But pray tell me, before we go farther, who it
 is that I have the pleasure of assisting.”
@@ -6721,7 +6699,7 @@ God help me!” He burst into convulsive sobbing, with his face buried in
 his hands.
 
 There was a long silence, broken only by his heavy breathing and by the
-measured tapping of Sherlock Holmes’ finger-tips upon the edge of the
+measured tapping of Holmes’ finger-tips upon the edge of the
 table. Then my friend rose and threw open the door.
 
 “Get out!” said he.
@@ -6773,7 +6751,7 @@ rumours as to the death of Dr. Grimesby Roylott which tend to make the
 matter even more terrible than the truth.
 
 It was early in April in the year ’83 that I woke one morning to find
-Sherlock Holmes standing, fully dressed, by the side of my bed. He was
+Holmes standing, fully dressed, by the side of my bed. He was
 a late riser, as a rule, and as the clock on the mantelpiece showed me
 that it was only a quarter-past seven, I blinked up at him in some
 surprise, and perhaps just a little resentment, for I was myself
@@ -6821,7 +6799,7 @@ spoke, and we could see that she was indeed in a pitiable state of
 agitation, her face all drawn and grey, with restless frightened eyes,
 like those of some hunted animal. Her features and figure were those of
 a woman of thirty, but her hair was shot with premature grey, and her
-expression was weary and haggard. Sherlock Holmes ran her over with one
+expression was weary and haggard. Holmes ran her over with one
 of his quick, all-comprehensive glances.
 
 “You must not fear,” said he soothingly, bending forward and patting
@@ -6882,7 +6860,7 @@ advise me how to walk amid the dangers which encompass me.”
 
 “I am all attention, madam.”
 
-“My name is Helen Stoner, and I am living with my stepfather, who is
+“My name is Stoner, and I am living with my stepfather, who is
 the last survivor of one of the oldest Saxon families in England, the
 Roylotts of Stoke Moran, on the western border of Surrey.”
 
@@ -6966,7 +6944,7 @@ my sister returned and offered no objection to the marriage; but within
 a fortnight of the day which had been fixed for the wedding, the
 terrible event occurred which has deprived me of my only companion.”
 
-Sherlock Holmes had been leaning back in his chair with his eyes closed
+Holmes had been leaning back in his chair with his eyes closed
 and his head sunk in a cushion, but he half opened his lids now and
 glanced across at his visitor.
 
@@ -7184,7 +7162,7 @@ trouble to you. I shall look forward to seeing you again this
 afternoon.” She dropped her thick black veil over her face and glided
 from the room.
 
-“And what do you think of it all, Watson?” asked Sherlock Holmes,
+“And what do you think of it all, Watson?” asked Holmes,
 leaning back in his chair.
 
 “It seems to me to be a most dark and sinister business.”
@@ -7205,7 +7183,7 @@ peculiar words of the dying woman?”
 band of gipsies who are on intimate terms with this old doctor, the
 fact that we have every reason to believe that the doctor has an
 interest in preventing his stepdaughter’s marriage, the dying allusion
-to a band, and, finally, the fact that Miss Helen Stoner heard a
+to a band, and, finally, the fact that Miss Stoner heard a
 metallic clang, which might have been caused by one of those metal bars
 that secured the shutters falling back into its place, I think that
 there is good ground to think that the mystery may be cleared along
@@ -7290,7 +7268,7 @@ shall order breakfast, and afterwards I shall walk down to Doctors’
 Commons, where I hope to get some data which may help us in this
 matter.”
 
-It was nearly one o’clock when Sherlock Holmes returned from his
+It was nearly one o’clock when Holmes returned from his
 excursion. He held in his hand a sheet of blue paper, scrawled over
 with notes and figures.
 
@@ -7602,7 +7580,7 @@ Roylott returned and saw us our journey would be in vain. Good-bye, and
 be brave, for if you will do what I have told you, you may rest assured
 that we shall soon drive away the dangers that threaten you.”
 
-Sherlock Holmes and I had no difficulty in engaging a bedroom and
+Holmes and I had no difficulty in engaging a bedroom and
 sitting-room at the Crown Inn. They were on the upper floor, and from
 our window we could command a view of the avenue gate, and of the
 inhabited wing of Stoke Moran Manor House. At dusk we saw Dr. Grimesby
@@ -7830,7 +7808,7 @@ to the terrified girl, how we conveyed her by the morning train to the
 care of her good aunt at Harrow, of how the slow process of official
 inquiry came to the conclusion that the doctor met his fate while
 indiscreetly playing with a dangerous pet. The little which I had yet
-to learn of the case was told me by Sherlock Holmes as we travelled
+to learn of the case was told me by Holmes as we travelled
 back next day.
 
 “I had,” said he, “come to an entirely erroneous conclusion which
@@ -7894,7 +7872,7 @@ IX. THE ADVENTURE OF THE ENGINEER’S THUMB
 
 
 Of all the problems which have been submitted to my friend, Mr.
-Sherlock Holmes, for solution during the years of our intimacy, there
+Holmes, for solution during the years of our intimacy, there
 were only two which I was the means of introducing to his notice that
 of Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of
 these the latter may have afforded a finer field for an acute and
@@ -8039,7 +8017,7 @@ be done.”
 
 “Ha!” cried I, “if it is anything in the nature of a problem which you
 desire to see solved, I should strongly recommend you to come to my
-friend, Mr. Sherlock Holmes, before you go to the official police.”
+friend, Mr. Holmes, before you go to the official police.”
 
 “Oh, I have heard of that fellow,” answered my visitor, “and I should
 be very glad if he would take the matter up, though of course I must
@@ -8060,7 +8038,7 @@ instant.” I rushed upstairs, explained the matter shortly to my wife,
 and in five minutes was inside a hansom, driving with my new
 acquaintance to Baker Street.
 
-Sherlock Holmes was, as I expected, lounging about his sitting-room in
+Holmes was, as I expected, lounging about his sitting-room in
 his dressing-gown, reading the agony column of _The Times_ and smoking
 his before-breakfast pipe, which was composed of all the plugs and
 dottles left from his smokes of the day before, all carefully dried and
@@ -8616,7 +8594,7 @@ dressed, and then the doctor was kind enough to bring me along here. I
 put the case into your hands and shall do exactly what you advise.”
 
 We both sat in silence for some little time after listening to this
-extraordinary narrative. Then Sherlock Holmes pulled down from the
+extraordinary narrative. Then Holmes pulled down from the
 shelf one of the ponderous commonplace books in which he placed his
 cuttings.
 
@@ -8808,7 +8786,7 @@ the unfortunate bridegroom moves. Fresh scandals have eclipsed it, and
 their more piquant details have drawn the gossips away from this
 four-year-old drama. As I have reason to believe, however, that the
 full facts have never been revealed to the general public, and as my
-friend Sherlock Holmes had a considerable share in clearing the matter
+friend Holmes had a considerable share in clearing the matter
 up, I feel that no memoir of him would be complete without some little
 sketch of this remarkable episode.
 
@@ -8869,7 +8847,7 @@ Simon. I will read it to you, and in return you must turn over these
 papers and let me have whatever bears upon the matter. This is what he
 says:
 
-    “‘MY DEAR MR. SHERLOCK HOLMES, Lord Backwater tells me that I may
+    “‘MY DEAR MR. Holmes, Lord Backwater tells me that I may
     place implicit reliance upon your judgment and discretion. I have
     determined, therefore, to call upon you and to consult you in
     reference to the very painful event which has occurred in
@@ -9337,7 +9315,7 @@ heads than yours or mine,” he remarked, and bowing in a stately,
 old-fashioned manner he departed.
 
 “It is very good of Lord St. Simon to honour my head by putting it on a
-level with his own,” said Sherlock Holmes, laughing. “I think that I
+level with his own,” said Holmes, laughing. “I think that I
 shall have a whisky and soda and a cigar after all this
 cross-questioning. I had formed my conclusions as to the case before
 our client came into the room.”
@@ -9384,7 +9362,7 @@ upon the arm of the pea-jacket.
 
 “In search of the body of Lady St. Simon.”
 
-Sherlock Holmes leaned back in his chair and laughed heartily.
+Holmes leaned back in his chair and laughed heartily.
 
 “Have you dragged the basin of Trafalgar Square fountain?” he asked.
 
@@ -9489,7 +9467,7 @@ overcoat. “There is something in what the fellow says about outdoor
 work,” he remarked, “so I think, Watson, that I must leave you to your
 papers for a little.”
 
-It was after five o’clock when Sherlock Holmes left me, but I had no
+It was after five o’clock when Holmes left me, but I had no
 time to be lonely, for within an hour there arrived a confectioner’s
 man with a very large flat box. This he unpacked with the help of a
 youth whom he had brought with him, and presently, to my very great
@@ -9501,7 +9479,7 @@ two visitors vanished away, like the genii of the Arabian Nights, with
 no explanation save that the things had been paid for and were ordered
 to this address.
 
-Just before nine o’clock Sherlock Holmes stepped briskly into the room.
+Just before nine o’clock Holmes stepped briskly into the room.
 His features were gravely set, but there was a light in his eye which
 made me think that he had not been disappointed in his conclusions.
 
@@ -9695,7 +9673,7 @@ permission I will now wish you all a very good-night.” He included us
 all in a sweeping bow and stalked out of the room.
 
 “Then I trust that you at least will honour me with your company,” said
-Sherlock Holmes. “It is always a joy to meet an American, Mr. Moulton,
+Holmes. “It is always a joy to meet an American, Mr. Moulton,
 for I am one of those who believe that the folly of a monarch and the
 blundering of a minister in far-gone years will not prevent our
 children from being some day citizens of the same world-wide country
@@ -9824,7 +9802,7 @@ a while he could not get his words out, but swayed his body and plucked
 at his hair like one who has been driven to the extreme limits of his
 reason. Then, suddenly springing to his feet, he beat his head against
 the wall with such force that we both rushed upon him and tore him away
-to the centre of the room. Sherlock Holmes pushed him down into the
+to the centre of the room. Holmes pushed him down into the
 easy-chair and, sitting beside him, patted his hand and chatted with
 him in the easy, soothing tones which he knew so well how to employ.
 
@@ -10034,10 +10012,10 @@ changed his whole life; but now, alas! it is too late forever too late!
 shall continue with my miserable story.
 
 “When we were taking coffee in the drawing-room that night after
-dinner, I told Arthur and Mary my experience, and of the precious
+dinner, I told Arthur and Sutherland my experience, and of the precious
 treasure which we had under our roof, suppressing only the name of my
 client. Lucy Parr, who had brought in the coffee, had, I am sure, left
-the room; but I cannot swear that the door was closed. Mary and Arthur
+the room; but I cannot swear that the door was closed. Sutherland and Arthur
 were much interested and wished to see the famous coronet, but I
 thought it better not to disturb it.
 
@@ -10078,9 +10056,9 @@ the room without another word.
 
 “When he was gone I unlocked my bureau, made sure that my treasure was
 safe, and locked it again. Then I started to go round the house to see
-that all was secure a duty which I usually leave to Mary but which I
+that all was secure a duty which I usually leave to Sutherland but which I
 thought it well to perform myself that night. As I came down the stairs
-I saw Mary herself at the side window of the hall, which she closed and
+I saw Sutherland herself at the side window of the hall, which she closed and
 fastened as I approached.
 
 “‘Tell me, dad,’ said she, looking, I thought, a little disturbed, ‘did
@@ -10154,7 +10132,7 @@ should not have thought was in his nature. ‘If you choose to call the
 police, let the police find what they can.’
 
 “By this time the whole house was astir, for I had raised my voice in
-my anger. Mary was the first to rush into my room, and, at the sight of
+my anger. Sutherland was the first to rush into my room, and, at the sight of
 the coronet and of Arthur’s face, she read the whole story and, with a
 scream, fell down senseless on the ground. I sent the housemaid for the
 police and put the investigation into their hands at once. When the
@@ -10200,7 +10178,7 @@ honour, my gems, and my son in one night. Oh, what shall I do!”
 He put a hand on either side of his head and rocked himself to and fro,
 droning to himself like a child whose grief has got beyond words.
 
-Sherlock Holmes sat silent for some few minutes, with his brows knitted
+Holmes sat silent for some few minutes, with his brows knitted
 and his eyes fixed upon the fire.
 
 “Do you receive much company?” he asked.
@@ -10211,7 +10189,7 @@ else, I think.”
 
 “Do you go out much in society?”
 
-“Arthur does. Mary and I stay at home. We neither of us care for it.”
+“Arthur does. Sutherland and I stay at home. We neither of us care for it.”
 
 “That is unusual in a young girl.”
 
@@ -10434,7 +10412,7 @@ lumber-room.”
 
 “That is it on the dressing-table.”
 
-Sherlock Holmes took it up and opened the bureau.
+Holmes took it up and opened the bureau.
 
 “It is a noiseless lock,” said he. “It is no wonder that it did not
 wake you. This case, I presume, contains the coronet. We must have a
@@ -10627,7 +10605,7 @@ With a shriek of joy our client clutched it up.
 The reaction of joy was as passionate as his grief had been, and he
 hugged his recovered gems to his bosom.
 
-“There is one other thing you owe, Mr. Holder,” said Sherlock Holmes
+“There is one other thing you owe, Mr. Holder,” said Holmes
 rather sternly.
 
 “Owe!” He caught up a pen. “Name the sum, and I will pay it.”
@@ -10845,7 +10823,7 @@ punishment.”
 XII. THE ADVENTURE OF THE COPPER BEECHES
 
 
-“To the man who loves art for its own sake,” remarked Sherlock Holmes,
+“To the man who loves art for its own sake,” remarked Holmes,
 tossing aside the advertisement sheet of _The Daily Telegraph_, “it is
 frequently in its least important and lowliest manifestations that the
 keenest pleasure is to be derived. It is pleasant to me to observe,
@@ -10887,7 +10865,7 @@ thick fog rolled down between the lines of dun-coloured houses, and the
 opposing windows loomed like dark, shapeless blurs through the heavy
 yellow wreaths. Our gas was lit and shone on the white cloth and
 glimmer of china and metal, for the table had not been cleared yet.
-Sherlock Holmes had been silent all the morning, dipping continuously
+Holmes had been silent all the morning, dipping continuously
 into the advertisement columns of a succession of papers until at last,
 having apparently given up his search, he had emerged in no very sweet
 temper to lecture me upon my literary shortcomings.
@@ -10898,7 +10876,7 @@ be open to a charge of sensationalism, for out of these cases which you
 have been so kind as to interest yourself in, a fair proportion do not
 treat of crime, in its legal sense, at all. The small matter in which I
 endeavoured to help the King of Bohemia, the singular experience of
-Miss Mary Sutherland, the problem connected with the man with the
+Sutherland, the problem connected with the man with the
 twisted lip, and the incident of the noble bachelor, were all matters
 which are outside the pale of the law. But in avoiding the sensational,
 I fear that you may have bordered on the trivial.”
@@ -11809,7 +11787,7 @@ as well for you to have your pistol ready.”
 The words were hardly out of his mouth before a man appeared at the
 door of the room, a very fat and burly man, with a heavy stick in his
 hand. Miss Hunter screamed and shrunk against the wall at the sight of
-him, but Sherlock Holmes sprang forward and confronted him.
+him, but Holmes sprang forward and confronted him.
 
 “You villain!” said he, “where’s your daughter?”
 
